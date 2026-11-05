@@ -202,4 +202,5 @@ KWP 是气候平均而非实时天气；KWP 只有 Kerbin 数据；NF 涡旋不�
 
 ## Credits
 
-Developed by **ThreeMACH**. Implementation, testing and documentation assisted by **DeepSeek** (https://github.com/deepseek-ai).
+Developed by **ThreeMACH**. Implementation, testing and documentation generated with **DeepSeek V4.1 Flash** (https://github.com/deepseek-ai).
+

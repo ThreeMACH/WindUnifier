@@ -3,7 +3,7 @@
   "identifier": "WindUnifier",
   "name": "Wind Unifier",
   "abstract": "One unified wind for FAR, NaturalWeather and Kerbal Weather Project, with a safe fallback chain that never zeroes another mod's wind.",
-  "author": "ThreeMACH, DeepSeek",
+  "author": "ThreeMACH, DeepSeek V4.1 Flash",
   "license": "MIT",
   "release_status": "stable",
   "version": "0.4.0",
@@ -25,5 +25,6 @@
     }
   ]
 }
+
 
 
