@@ -199,3 +199,7 @@ its own forces, so using it aerodynamically would double-count tornadoes.
 ### 已知限制
 
 KWP 是气候平均而非实时天气；KWP 只有 Kerbin 数据；NF 涡旋不进 FAR 气动；无游戏内 UI。
+
+## Credits
+
+Developed by **ThreeMACH**. Implementation, testing and documentation assisted by **DeepSeek** (https://github.com/deepseek-ai).
