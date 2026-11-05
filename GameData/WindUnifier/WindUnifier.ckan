@@ -1,0 +1,28 @@
+{
+  "spec_version": "v1.4",
+  "identifier": "WindUnifier",
+  "name": "Wind Unifier",
+  "abstract": "One unified wind for FAR, NaturalWeather and Kerbal Weather Project, with a safe fallback chain that never zeroes another mod's wind.",
+  "author": "ThreeMACH",
+  "license": "MIT",
+  "release_status": "stable",
+  "version": "0.4.0",
+  "ksp_version": "1.12.5",
+  "depends": [
+    { "name": "HarmonyKSP" }
+  ],
+  "recommends": [
+    { "name": "NaturalWeather" },
+    { "name": "KerbalWeatherProject" },
+    { "name": "FerramAerospaceResearch" },
+    { "name": "NaturesFury" },
+    { "name": "EnvironmentalVisualEnhancements" }
+  ],
+  "install": [
+    {
+      "find": "WindUnifier",
+      "install_to": "GameData"
+    }
+  ]
+}
+

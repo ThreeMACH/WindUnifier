@@ -1,0 +1,5 @@
+bin/
+obj/
+GameData/WindUnifier/Plugins/*.dll
+*.user
+.vs/
